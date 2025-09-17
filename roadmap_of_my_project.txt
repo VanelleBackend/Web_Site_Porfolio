@@ -1,7 +1,7 @@
 Projet: Site web de porfolio.
 
 
-Durée : Une semaine (Jeudi 04 au Jeudi 11).
+Durée : Une semaine (Jeudi 04 au Samedi 20 septembre).
 
 
 Travail 1: Mise sur pied du product backlog

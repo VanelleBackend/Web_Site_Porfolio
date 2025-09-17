@@ -1,0 +1,39 @@
+html, body {
+    font-family: poppins, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.9rem;
+}
+
+i {
+    font-size: 30px;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+}
+
+.nav-link {
+    margin-right: 20px;
+}
+.nav-link:hover {
+    color: #0d6efd !important;
+    transition: 0.3s;
+    font-size: 1.25rem;
+}
+.btn-1 {
+    width: 130px;
+    text-align: center;
+}
+.btn-1:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+img {
+    cursor: pointer;
+}
+img:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+}

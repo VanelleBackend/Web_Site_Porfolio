@@ -2,9 +2,15 @@
 
 ## 🎯 Objectif Principale:
 
+     Réaliser une plateforme dans laquelle je pourrais présenter mes différents compétences et travaux sur lesquelles j'ai déjà eu à bosser. 
+
 ---
 
 ## ⚙️ Fonctionnalités
+
+    * Pourvoir consulter mes différents projets 
+    * Possiblité de me contacter en cas de partenariat
+    * Pourvoir consulter mes compétences 
 
 ---
 
@@ -29,7 +35,7 @@
 
 | ID  | Type PBI | Description | Priorité (Haute/Moyenne/Basse) | Estimation ( Heures) |
 |-----|---------------------------|-------------|--------------------------------|------------------------------------|
-| **1**   | Spike | En tant que Dev je dois  concevoir une maquette UI ituitive pour le portfolio.  | Haute| 4h|
+| **1**   | Spike | En tant que Dev je dois  concevoir une maquette UI ituitive pour le portfolio.  | Haute| 7h|
 | **2**   |User Story| En tant visiteur je dois pourvoir consulter le section **A propos** du porfolio afin d'en savoir plus sur le propriétaire du porfolio.| Haute| 7h|
 | **3**   | User Story| En tant que visiteur je doit pouvoir consulter les différents projets réailsés disponibles sur le porfolio afin d'évaluer les compétences du propriétaire du porfolio.| Haute| 5h|
 | **4**   | User Story| En tant que retruteur je doit pouvoir contacter le propriétaire du porfolio afin de pouvoir le proposé une collaboration.| Haute| 7h|
