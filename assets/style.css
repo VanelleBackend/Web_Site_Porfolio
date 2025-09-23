@@ -18,9 +18,8 @@ i {
     margin-right: 20px;
 }
 .nav-link:hover {
-    color: #0d6efd !important;
-    transition: 0.3s;
-    font-size: 1.25rem;
+    text-decoration: underline;
+
 }
 .btn-1 {
     width: 130px;
@@ -30,10 +29,36 @@ i {
     transform: scale(1.1);
     transition: 0.4s;
 }
-img {
-    cursor: pointer;
-}
-img:hover {
+.effet-img:hover {
     transform: scale(1.1);
     transition: 0.4s;
+    cursor: pointer;
+}
+.container-project-one:hover {
+    transform: scale(1.1);
+    transition: 0.7s;
+    cursor: pointer;
+}
+.btn-contact:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.2s;
+    box-shadow: 2px 2px 15px #0d6efd;
+}
+.link-footer:hover {
+    text-decoration: none;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+/*
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+} */
+.poppins-black {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
 }
